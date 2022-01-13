@@ -1,0 +1,32 @@
+.navbar {
+    background: white;
+}
+
+.quem-somos {
+    background: black;
+    color: white;
+}
+
+.margin {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.pizza-foto {
+    max-width: 100%;
+    height: 250px;
+}
+
+.parceiros {
+    background: red;
+    color: white;
+}
+
+.logo-photo {
+    max-width: 80%;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
